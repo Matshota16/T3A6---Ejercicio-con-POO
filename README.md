@@ -61,3 +61,7 @@ solicitar los datos del empleado:
 
 ## Etapa 3.
   ![](https://github.com/Matshota16/T3A6---Ejercicio-con-POO/blob/3d5eb73df8f467c38bc336e532b6be259f2404cc/T3A6.png)
+  
+ ## Etapa 4, Desarollo de la solucion
+Desarollo de la solución 
+![](
