@@ -58,3 +58,6 @@ solicitar los datos del empleado:
 |15. su nomina por la empresa es: 1137.40264                       |
 +------------------------------------------------------------------+
 ~~~~~~~~
+
+## Etapa 3.
+  ![](
