@@ -21,17 +21,17 @@ Realizar el cálculo respectivo del ISR sobre el sueldo bruto acorde a la siguie
 
 solicitar los datos del empleado:
 * solicitar la sucursal al que pertenece el empleado
-       * solicitar la cantidad de empleados
-       * solicitar el nombre(s) de empleado
-       * solicitar el apellido paterno
-       * solicitar el apellido materno
-       * solicitar el rfc
-       * solicitar el curp
-       * solicitar el correo electronico
-       * solicitar el numero de telefono
-       * solicitar el area donde se encuentra
-       * se hace ciclo if de los puestos
-       * solicitar el salario semanal del empleado
-       * solicitar el tiempo que lleva trabajando en la empresa
-       * se hace sentencia if de acuerdo a los años que ha trabajado para sacar su isr
+* solicitar la cantidad de empleados
+* solicitar el nombre(s) de empleado
+* solicitar el apellido paterno
+* solicitar el apellido materno
+* solicitar el rfc
+* solicitar el curp
+* solicitar el correo electronico
+* solicitar el numero de telefono
+* solicitar el area donde se encuentra
+* se hace ciclo if de los puestos
+* solicitar el salario semanal del empleado
+* solicitar el tiempo que lleva trabajando en la empresa
+* se hace sentencia if de acuerdo a los años que ha trabajado para sacar su isr
 salida:
