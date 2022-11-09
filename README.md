@@ -20,7 +20,7 @@ Realizar el cálculo respectivo del ISR sobre el sueldo bruto acorde a la siguie
 * entrada-
 
 solicitar los datos del empleado:
-       * solicitar la sucursal al que pertenece el empleado
+* solicitar la sucursal al que pertenece el empleado
        * solicitar la cantidad de empleados
        * solicitar el nombre(s) de empleado
        * solicitar el apellido paterno
