@@ -39,7 +39,7 @@ solicitar los datos del empleado:
 
 ~~~~~
 +------------------------------------------------------------------+
-|  10 NUNMEROS IMPARES Y SU PRODUCTO                               |
+| empresa textil                                                   |
 +------------------------------------------------------------------+
 | 1.ingrese la sucursal:   la sucursal es   sucursal cdmx          |
 | 2.ingrese el numero de empleados:  el numero de empleados es 300 |
